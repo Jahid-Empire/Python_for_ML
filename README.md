@@ -1,4 +1,4 @@
-#ML Learning Path - Python Module#
+# ML Learning Path - Python Module#
 This repository contains my machine learning learning path codes in Python, including both advanced machine learning techniques and foundational Python basics. It serves as a revisiting and refining of my learning journey in the field of machine learning and Python programming.
 
 About
