@@ -17,6 +17,13 @@ print("Jahid Expenses for 12 moths in 2023 is:  ", jahidex)
 print("Hassan Expenses for 12 moths in 2023 is:  ", hassanex)
 
 
+def printPattern(n):
+  for i in range(n):
+    s = ''
+    for j in range(i+1):
+      s = s+'*'
+    print(s)
 
+print(printPattern(3))
 
 
